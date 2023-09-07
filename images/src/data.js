@@ -20,4 +20,14 @@ let shopItemsData = [{
     price: 210,
     desc:"Lorem ipsum dolor sit, amet consectetur adipisicing.",
     img:"./jonathon-dorofy-Qne1wCsWfUA-unsplash.jpg"
-}];
+},
+
+{
+    id:"item5",
+    name:"top",
+    price: 150,
+    desc: "loremsndskdjkfknflsdhjuwue",
+    img: "./img5.jpg"
+}
+
+];
